@@ -1,4 +1,19 @@
 # journal-week-6
+# Sir, since you can't login and see our work, the screenshot is below:
+
+![Slack ](https://github.com/Huang-Yuanhang/journal-week-6/assets/140174372/0ba707e4-810c-4c75-964b-3295d48bca0b) 
+ <hr/>
+<img width="1031" alt="slack" src="https://github.com/Huang-Yuanhang/journal-week-6/assets/140174372/5b1990cd-9d3e-4e65-b48e-062ffe870278">
+ <hr/>
+ 
+![trello](https://github.com/Huang-Yuanhang/journal-week-6/assets/140174372/c4572101-6274-4758-a9d3-f48a4966a48e)
+ <hr/>
+ 
+![pic](https://github.com/Huang-Yuanhang/journal-week-6/assets/140174372/806cb7bf-e7d0-411b-80bc-11679517b89b)
+
+
+
+
 
 ## Learning Activities & Resources
 **What is Slack?**  https://www.youtube.com/watch?v=q19RtuCHt1Q
